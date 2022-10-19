@@ -10,4 +10,4 @@
 ![chakra-ui](https://shields.io/badge/chakra--ui-black?logo=chakraui&style=for-the-badge")
 
 
-Este web-app foi feito com o principal objetivo de praticar/melhorar minhas habilidades com react, typescript e também um pouco de design responsivo. Foi utilizada a API do Open Weaher Map como fonte de informação!# app-previsao-do-tempo
+Este web-app foi feito com o principal objetivo de praticar/melhorar minhas habilidades com react, typescript e também um pouco de design responsivo. Foi utilizada a API do Open Weaher Map como fonte de informação!
